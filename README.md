@@ -1,6 +1,8 @@
-#### NetPractice
+# NetPractice
 
-some exercises for networking
+Some "very cool" sort of networking related excercises 
 
-1. extract .tgz file with ```tar -xvf filename.tgz```
-2. open html file ```open index.html```
+basically it helps you understand how TCP/IP addressing works
+
+```tar -xvf filename.tgz```<br/>
+```open index.html```
